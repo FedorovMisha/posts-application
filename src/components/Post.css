@@ -1,0 +1,11 @@
+.post-container{
+    width:400px;
+    padding: 20px;
+    border:1px solid black;
+    border-radius: 10px;
+}
+.post-image{
+    width: 400px;
+    height: 350px;
+    object-fit: cover;
+}
